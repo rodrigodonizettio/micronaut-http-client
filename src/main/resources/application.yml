@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: micronautQuickstart
+
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
+  username: yourgithubusername
+  token: xxxxxxxxxxxx
